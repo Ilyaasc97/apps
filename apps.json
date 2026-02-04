@@ -1,15 +1,34 @@
+
 [
   {
     "name": "Tafsiir Kooaban ",
-    "description": "Tafsiir Kooaban Sh Nuur Cali Jaamac ",
+    "description": "Tafsiir Kooaban Sh Nuur Cali Jaamac",
     "iconUrl": "https://raw.githubusercontent.com/Ilyaasc97/tafsiir_gaaban/refs/heads/main/iconapp.png",
-    "downloadUrl": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/apps/Tafsiir%20Kooban.apk"
+    "downloadUrl": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/apps/Tafsiir%20Kooban.apk",
+    "size": "57.1MB",
+    "version": "1.0.0",
+    "developer": "Ilyaas Abdirahman",
+    "rating": 4.9,
+    "featured": true,
+    "screenshots": [
+      "https://raw.githubusercontent.com/Ilyaasc97/appsstore/refs/heads/main/tafsiirk2.jpg",
+      "https://raw.githubusercontent.com/Ilyaasc97/appsstore/refs/heads/main/tafsiirk1.jpg",
+      "https://raw.githubusercontent.com/Ilyaasc97/appsstore/refs/heads/main/tafsiirk.jpg"
+    ]
   },
   {
-    "name": "المفكرة السريعة",
-    "description": "دون ملاحظاتك بسرعة وسهولة",
-    "iconUrl": "https://cdn-icons-png.flaticon.com/512/2965/2965358.png",
-    "downloadUrl": "https://example.com/app2.apk"
+    "name": "Tuxfatu Nisaa",
+    "description": "English to Somali dictionary with offline support.",
+    "iconUrl": "https://example.com/icon2.png",
+    "downloadUrl": "https://example.com/app2.apk",
+    "size": "12 MB",
+    "version": "1.0.5",
+    "developer": "Ilyas Abdirahman",
+    "rating": 4.5,
+    "screenshots": [
+      "https://raw.githubusercontent.com/Ilyaasc97/appsstore/refs/heads/main/tuxfa0.jpg",
+      "https://raw.githubusercontent.com/Ilyaasc97/appsstore/refs/heads/main/tuxfa1.jpg",
+      "https://raw.githubusercontent.com/Ilyaasc97/appsstore/refs/heads/main/tuxfa2.jpg"
+    ]
   }
 ]
-
