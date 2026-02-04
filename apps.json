@@ -1,4 +1,3 @@
-
 [
   {
     "name": "Tafsiir Kooaban ",
@@ -9,6 +8,7 @@
     "version": "1.0.0",
     "developer": "Ilyaas Abdirahman",
     "rating": 4.9,
+    "packageName": "com.ilyaas.tafsiirk",
     "featured": true,
     "screenshots": [
       "https://raw.githubusercontent.com/Ilyaasc97/appsstore/refs/heads/main/tafsiirk2.jpg",
@@ -19,12 +19,13 @@
   {
     "name": "Tuxfatu Nisaa",
     "description": "Waxaa ku Jira Laba Kitaab oo Laba 40taad Sh Nuur Cali Jaamac.",
-    "iconUrl": "https://raw.githubusercontent.com/Ilyaasc97/appsstore/refs/heads/main/tuxfatui1.png",
+    "iconUrl": "https://raw.githubusercontent.com/Ilyaasc97/appsstore/refs/heads/main/icon.png",
     "downloadUrl": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/apps/TuxfatuNisaa.apk",
-    "size": "51.8MB",
-    "version": "1.0.0",
+    "size": "12 MB",
+    "version": "1.0.5",
     "developer": "Ilyas Abdirahman",
     "rating": 4.5,
+    "packageName": "com.ilyaas.hadith",
     "screenshots": [
       "https://raw.githubusercontent.com/Ilyaasc97/appsstore/refs/heads/main/tuxfa0.jpg",
       "https://raw.githubusercontent.com/Ilyaasc97/appsstore/refs/heads/main/tuxfa1.jpg",
@@ -32,6 +33,3 @@
     ]
   }
 ]
-
-
-
