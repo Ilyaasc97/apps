@@ -18,8 +18,8 @@
   },
   {
     "name": "Tuxfatu Nisaa",
-    "description": "English to Somali dictionary with offline support.",
-    "iconUrl": "https://example.com/icon2.png",
+    "description": "Waxaa ku Jira Laba Kitaab oo Laba 40taad Sh Nuur Cali Jaamac.",
+    "iconUrl": "https://raw.githubusercontent.com/Ilyaasc97/appsstore/refs/heads/main/icon.png",
     "downloadUrl": "https://example.com/app2.apk",
     "size": "12 MB",
     "version": "1.0.5",
@@ -32,3 +32,4 @@
     ]
   }
 ]
+
