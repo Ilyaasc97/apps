@@ -19,10 +19,10 @@
   {
     "name": "Tuxfatu Nisaa",
     "description": "Waxaa ku Jira Laba Kitaab oo Laba 40taad Sh Nuur Cali Jaamac.",
-    "iconUrl": "https://github.com/Ilyaasc97/appsstore/blob/main/tuxfatui1.png",
-    "downloadUrl": "https://example.com/app2.apk",
-    "size": "12 MB",
-    "version": "1.0.5",
+    "iconUrl": "https://raw.githubusercontent.com/Ilyaasc97/appsstore/refs/heads/main/tuxfatui1.png",
+    "downloadUrl": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/apps/TuxfatuNisaa.apk",
+    "size": "51.8MB",
+    "version": "1.0.0",
     "developer": "Ilyas Abdirahman",
     "rating": 4.5,
     "screenshots": [
@@ -32,5 +32,6 @@
     ]
   }
 ]
+
 
 
